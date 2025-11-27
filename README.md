@@ -1,6 +1,6 @@
 # AlgoMorphism
 
-<img src="pictures/am_logo.png" width="250" height="100%">
+<img src="pictures/logo.png" width="250" height="100%">
 
 ## Description & Back Propagation Experiment
 
